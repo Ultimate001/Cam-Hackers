@@ -41,7 +41,7 @@ print("""
 \033[1;31m27) \033[1;37mBulgaria                    \033[1;31m57) \033[1;37mPalestinian           \033[1;31m87) \033[1;37mGuatemala
 \033[1;31m28) \033[1;37mIndonesia                   \033[1;31m58) \033[1;37mNew Zealand           \033[1;31m88) \033[1;37mNepal
 \033[1;31m29) \033[1;37mDenmark                     \033[1;31m59) \033[1;37mBangladeh             \033[1;31m89) \033[1;37mPeru
-\033[1;31m30) \033[1;37mArgentina                   \033[1;31m60) \033[1;37mPanama                \033[1;31m90) \033[1;37mKenya
+\033[1;31m30) \033[1;37mArgentina                   \033[1;31m60) \033[1;37mPanama                \033[1;31m90) \033[1;37mISO 3166-2:KE
                                                           \033[1;31m91) \033[1;37mExtra
 """)
 
@@ -55,7 +55,7 @@ try:
                  "TN", "EE", "DO", "SI", "EC", "LT", "PS", "NZ", "BD", "PA",
                  "MD", "NI", "MT", "IT", "SA", "HR", "CY", "PK", "AE", "KZ",
                  "KW", "VE", "GE", "ME", "SV", "LU", "CW", "PR", "CR", "BY",
-                 "AL", "LI", "BA", "PY", "PH", "FO", "GT", "NP", "PE", "KE",
+                 "AL", "LI", "BA", "PY", "PH", "FO", "GT", "NP", "PE", "ISO 3166-2:KE"
                  "-"]
     headers = {"User-Agent": "Mozilla/5.0 (X11; Linux i686; rv:68.0) Gecko/20100101 Firefox/68.0"}
 
